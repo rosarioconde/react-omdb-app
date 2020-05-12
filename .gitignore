@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+dist
+assets
+media
+
+# production
+.env
+
+
+
+
